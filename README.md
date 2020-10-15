@@ -1,33 +1,15 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio
 
+Personal web development portfolio. It contains a list of projects carried out in the last 6 months.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+## Content
+This project contains a branch: **main**. Main contains the repository of the main project and the various changes made from the original version.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Demo
+If you want to see the demo of this proyect deployed, you can visit [Demo of the Proyect](https://aguijos.github.io/ "Demo of the Proyect")
 
-(* = Not included)
+## How To Clone
+If you want to make a change you can fork the project. And if you want to contribute you can request a Pull Request.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+**Notes**
+If you want to find more styles for your portfolio visit [html5up.net](https://html5up.net/ "html5up.net")
